@@ -1,0 +1,20 @@
+{
+  "name": "electron-rogue",
+  "version": "0.0.1",
+  "description": "Electron implementation of Rogue.js",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Rogue",
+    "Roguelike",
+    "Electron",
+    "RogueJS"
+  ],
+  "author": "Robert M. V. Gaines <rmvgaines@rgaineswebdevelopment.com> (https://www.rgaineswebdevelopment.com)",
+  "license": "SEE LICENSE IN LICENSE.TXT",
+  "devDependencies": {
+    "electron": "^3.0.10"
+  }
+}
